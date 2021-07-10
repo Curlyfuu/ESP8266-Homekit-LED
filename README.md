@@ -3,7 +3,7 @@ A simple homekit programming implementation, modified according to the open sour
 # Dependent library
 - HomeKit-ESP8266
 # How to use
-- Modify the network name and password in the wifi_info.h file
+- Modify the network name and password in the **wifi_info.h** file
 - Compile and burn the program
 # Show off
 - [01](./pic/01.PNG)
