@@ -6,7 +6,7 @@ A simple homekit programming implementation, modified according to the open sour
 - Modify the network name and password in the **wifi_info.h** file
 - Compile and burn the program
 # Show off
-- [!](./pic/01.PNG)
-- [02](./pic/02.PNG)
-- [03](./pic/03.PNG)
-- [04](./pic/04.PNG)
+- ![01](./pic/01.PNG)
+- ![02](./pic/02.PNG)
+- ![03](./pic/03.PNG)
+- ![04](./pic/04.PNG)
