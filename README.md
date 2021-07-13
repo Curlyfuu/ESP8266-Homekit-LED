@@ -1,7 +1,11 @@
 # ESP8266-Homekit-LED
 A simple homekit programming implementation, modified according to the open source project https://github.com/Mixiaoxiao/Arduino-HomeKit-ESP8266
+# Material
+- Esp8266 development board
+- WS2812B LED strip
 # Dependent library
 - HomeKit-ESP8266
+- Adafruit NeoPixel
 # How to use
 - Modify the network name and password in the **wifi_info.h** file
 - Compile and burn the program
